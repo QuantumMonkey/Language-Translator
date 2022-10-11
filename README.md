@@ -1,2 +1,2 @@
 # Language-Translator
-Localization AI powered by IBM
+Localization AI powered by IBM Watson
